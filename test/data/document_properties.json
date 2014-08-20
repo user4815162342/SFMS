@@ -1,0 +1,9 @@
+{
+		"string-value": "string",
+		"number-value": 23,
+		"object-value": {
+			"foo": "bar",
+			"bar": "foo"
+		},
+		"array-value": [  4, 8, 15, 16, 23, 42 ]
+}

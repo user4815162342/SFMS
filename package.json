@@ -1,0 +1,17 @@
+{
+  "name": "SFMS",
+  "version": "0.0.1",
+  "description": "Simple File Metadata System Tools API",
+  "main": "index.js",
+  "scripts": {
+    "test": "just-test-it"
+  },
+  "dependencies": {
+		"async": "~0.9"
+	},
+  "devDependencies": {
+		"just-test-it": "~0.0"
+	},
+  "author": "Neil M. Sheldon",
+  "license": "MIT"
+}
