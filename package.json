@@ -7,11 +7,11 @@
     "test": "just-test-it"
   },
   "dependencies": {
-		"async": "~0.9"
-	},
+    "async": "~0.9"
+  },
   "devDependencies": {
-		"just-test-it": "~0.0"
-	},
+    "just-test-it": "~0.0"
+  },
   "author": "Neil M. Sheldon",
   "license": "MIT"
 }
